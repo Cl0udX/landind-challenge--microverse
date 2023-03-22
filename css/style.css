@@ -135,3 +135,12 @@ li {
     display: flex;
     justify-content: center;
 }
+#features{ 
+    text-align: start;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    padding: 40px;
+    gap: 10px;
+    flex-direction: column;
+}
