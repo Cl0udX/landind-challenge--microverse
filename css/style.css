@@ -130,3 +130,8 @@ li {
 .flex{
     display: flex;
 }
+
+#how-it-works{
+    display: flex;
+    justify-content: center;
+}
